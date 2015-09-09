@@ -15,3 +15,14 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+
+#####################
+# [above] by github #
+# [below] by Tomato #
+#####################
+
+.DS_Store
+
+*.iml
+.idea
